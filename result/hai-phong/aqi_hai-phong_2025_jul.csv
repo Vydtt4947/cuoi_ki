@@ -8,3 +8,4 @@ timestamp,city,aqi,weather_icon,wind_speed,humidity
 2025-07-01T10:39:48.545678+07:00,Hải Phòng,28,/dl/web/weather/ic-w-06-rain-full.svg,12.7 km/h,90%
 2025-07-01T11:37:57.184569+07:00,Hải Phòng,33,/dl/web/weather/ic-w-06-rain-full.svg,15.6 km/h,92%
 2025-07-01T12:23:18.569708+07:00,Hải Phòng,11,/dl/web/weather/ic-w-06-rain-full.svg,16.3 km/h,88%
+2025-07-01T13:30:47.223129+07:00,Hải Phòng,6,/dl/web/weather/ic-w-04-scattered-clouds-full.svg,22.5 km/h,81%
